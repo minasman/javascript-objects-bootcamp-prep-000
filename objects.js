@@ -1,7 +1,7 @@
 var playlist = {Nirvana: "Smells Like Teen Spirit"};
 
 function updatePlaylist(playlist, artistName, songTitle){
-  return playlist[artistName] = songTitle;
+
 }
 
 function removeFromPlaylist(playlist, songTitle){
